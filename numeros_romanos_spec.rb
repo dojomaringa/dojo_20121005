@@ -1,4 +1,4 @@
-require_relative "numeros_romanos"
+﻿require_relative "numeros_romanos"
 
 describe "Numeros Romanos" do
 	context "quando um caracter" do

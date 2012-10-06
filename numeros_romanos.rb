@@ -1,4 +1,4 @@
-class NumerosRomanos
+﻿class NumerosRomanos
 
 	@@simbolos = {"I" => 1,	
 				  "V" => 5,
